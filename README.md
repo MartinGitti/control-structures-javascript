@@ -4,8 +4,8 @@ As the project title suggests, this project involves working with JavaScript Con
 
 ## Expected output:
 
-<img src="/images/capture.JPG" alt="code output in console">
-<img src="/images/capture2.JPG" alt="code output in console">
+<img src="/images/Capture.JPG" alt="code output in console">
+<img src="/images/Capture2.JPG" alt="code output in console">
 
 ## Please note:
 

@@ -1,5 +1,11 @@
 # javascript-control-structures
+
 As the project title suggests, this project involves working with JavaScript Control Structures.
+
+## Expected output:
+
+<img src="../images/capture.JPG" alt="code output in console">
+<img src="../images/capture2.JPG" alt="code output in console">
 
 ## Please note:
 

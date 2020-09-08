@@ -12,7 +12,7 @@ As the project title suggests, this project involves working with JavaScript Con
 * Page 2, code output:
 <img src="/images/Capture2.JPG" alt="code output in console">
 
-## Please note:
+<b> Please note: </b>
 
 * In order to run code in the console, it is important to install Node.js first.
 * Run code or display variables in the console by typing 'node & [File Name]'.

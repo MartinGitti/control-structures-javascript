@@ -4,7 +4,12 @@ As the project title suggests, this project involves working with JavaScript Con
 
 ## Expected output:
 
+* Page 1, code ouput:
 <img src="/images/Capture.JPG" alt="code output in console">
+
+<hr/>
+
+* Page 2, code output:
 <img src="/images/Capture2.JPG" alt="code output in console">
 
 ## Please note:

@@ -1,5 +1,7 @@
 # control-structures-javascript
 
+### IF, ELSE & ELSE IF conditional statements + Repitition or Looping control structures:
+
 * As the project title suggests, this project involves working with JavaScript Control Structures.
 * We'll dive into working with conditional statements & looping.
 * This is one of my first projects working with JavaScript.

@@ -1,12 +1,13 @@
-# javascript-control-structures
+# control-structures-javascript
 
-As the project title suggests, this project involves working with JavaScript Control Structures.
+* As the project title suggests, this project involves working with JavaScript Control Structures.
+* We'll dive into working with conditional statements & looping.
+* This is one of my first projects working with JavaScript.
 
 ## Expected output:
 
 * Page 1, code ouput:
 <img src="/images/Capture.JPG" alt="code output in console">
-
 <hr/>
 
 * Page 2, code output:
@@ -18,5 +19,6 @@ As the project title suggests, this project involves working with JavaScript Con
 * Run code or display variables in the console by typing 'node & [File Name]'.
 * Example: 'node dataType.js'.
 * Bare in mind that this needs to be typed within the command line interface/terminal.
+<hr>
 
-Happy coding :sunglasses:
+<span>Happy coding :sunglasses:</span>
